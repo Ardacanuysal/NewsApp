@@ -9,6 +9,8 @@ const CenteredContainer = () => {
   );
 };
 
+//ghfdhgjklşjhgjfhdg
+
 const styles = StyleSheet.create({
   outerContainer: {
     flex: 1,
